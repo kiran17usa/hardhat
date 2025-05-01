@@ -1,0 +1,9 @@
+{
+  "liverServer.settings.port": 5500,
+  "editor.formatOnSave": true,
+  "files.exclude": {
+    "**/node_modules": true,
+    "**/dist": true
+  },
+  "terminal.integrated.shellArgs.windows": ["-ExecutionPolicy", "Bypass"]
+}
